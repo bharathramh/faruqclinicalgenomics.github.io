@@ -20,7 +20,7 @@ banner: "../assets/img/banner/slider-bg-pale.jpg"
 		<div>
             <i class="fas fa-edit"></i>
 			<span class="counter">42</span>
-			<span class="counter-desc">Tutorials</span>
+			<span class="counter-desc">Tutor</span>
 		</div>
     </li>
     <li>
